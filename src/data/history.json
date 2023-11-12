@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Graphic Designer",
+    "organisation": "Freelance",
+    "startDate": "Aug, 2018",
+    "endDate": "Present",
+    "experiences": ["Desigining Brand Identity, Infographics, Flyer/Poster, etc"]
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"]
+  }
+]

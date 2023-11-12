@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Illustrator",
+    "imageSrc": "skills/illustrator.png"
+  },
+  {
+    "title": "Photoshop",
+    "imageSrc": "skills/photoshop.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  }
+]

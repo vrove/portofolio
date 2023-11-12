@@ -1,0 +1,23 @@
+[
+  {
+    "title": "ManjoBlajar",
+    "imageSrc": "projects/manjoblajar.png",
+    "description": "ManjoBlajar is a online learning platform, where students and lecturer can connect through online services.",
+    "demo": "https://vrove.github.io/ManjoBlajar/",
+    "source": "https://github.com/vrove/ManjoBlajar"
+  },
+  {
+    "title": "Classtar",
+    "imageSrc": "projects/classtar.png",
+    "description": "Classtar is a Online Classroom platform where students and lecturers can be connected to each other.",
+    "demo": "https://www.figma.com/file/VJr7iukMGVMKMwHS7nSsn1/Web-Prototype?type=design&node-id=0%3A1&mode=design&t=tJnqbdQmfNU0OE08-1",
+    "source": "https://www.figma.com/file/VJr7iukMGVMKMwHS7nSsn1/Web-Prototype?type=design&node-id=0%3A1&mode=design&t=tJnqbdQmfNU0OE08-1"
+  },
+  {
+    "title": "KenekJo",
+    "imageSrc": "projects/kenekjo.png",
+    "description": "KenekJo is a online Home Builder service which user can use to hire a Worker to repair or renovate their home.",
+    "demo": "https://www.figma.com/file/nLTowtXVymitH3oXKhoIKr/MobApp?type=design&node-id=0%3A1&mode=design&t=wcRDg4XieqsQB1C5-1",
+    "source": "https://www.figma.com/file/nLTowtXVymitH3oXKhoIKr/MobApp?type=design&node-id=0%3A1&mode=design&t=wcRDg4XieqsQB1C5-1"
+  }
+]
